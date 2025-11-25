@@ -13,7 +13,7 @@ We integrate **YOLOv8 with SAHI** (Slicing Aided Hyper Inference) to improve sma
 ## 📥 Project Presentation & Visuals (Deep Dive)
 For a comprehensive look at the **visual outputs**, detection comparisons (YOLO vs SAHI), trajectory tracking results, and detailed architecture, please refer to our Deep Dive presentation:
 
-👉 [**Deep Dive into Code, Architecture and Outputs**](./Capstone%20Phase2.pptx)
+👉 [**Deep Dive into Code, Architecture and Outputs**](https://github.com/krishi18/Crowd-Monitoring-Detection-Counting-Tracking/blob/main/Deep%20Dive-CV.pptx)
 
 ## 🚀 Key Features
 * **Advanced Detection:** Utilizes YOLOv8 enhanced with SAHI to detect small, occluded individuals in dense crowds.
