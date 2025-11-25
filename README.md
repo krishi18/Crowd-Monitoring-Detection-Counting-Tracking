@@ -38,8 +38,8 @@ Follow these steps to set up the environment and run the codebase.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/crowd-monitoring-capstone.git](https://github.com/YOUR_USERNAME/crowd-monitoring-capstone.git)
-cd crowd-monitoring-capstone
+git clone [https://github.com/krishi18/Crowd-Monitoring-Detection-Counting-Tracking.git](https://github.com/krishi18/Crowd-Monitoring-Detection-Counting-Tracking.git)
+cd Crowd-Monitoring-Detection-Counting-Tracking
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
